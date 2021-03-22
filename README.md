@@ -1,5 +1,5 @@
-# py-utils
-This repo contains utility functions that can make your Python code more efficient.
+# jewelry
+Python decorators for data science.
 
 ## ArgChecker
 `ArgChecker` is a class with a main method, `enforce_type_hints`, that serves as a decorator to ensure data types passed into a function match the type hints for that function.
