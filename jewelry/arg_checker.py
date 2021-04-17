@@ -145,7 +145,7 @@ class ArgChecker:
         |  arg_names : list
         |    List of argument names, necessary because args is only arg values
         |
-        | type_hints : dict
+        |  type_hints : dict
         |    Dict of type hints, e.g. {'a': (int, float), 'b': str}
         |
         |
