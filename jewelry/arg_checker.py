@@ -5,7 +5,6 @@ from typing import Tuple, Any
 from typing_inspect import get_origin
 
 
-# noinspection PyUnresolvedReferences,PyTypeHints
 class ArgChecker:
     """
     | Methods for checking whether arguments passed into a function are of the provided
