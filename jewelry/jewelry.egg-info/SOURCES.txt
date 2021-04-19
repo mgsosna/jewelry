@@ -1,0 +1,7 @@
+README.md
+setup.py
+jewelry/jewelry.egg-info/PKG-INFO
+jewelry/jewelry.egg-info/SOURCES.txt
+jewelry/jewelry.egg-info/dependency_links.txt
+jewelry/jewelry.egg-info/requires.txt
+jewelry/jewelry.egg-info/top_level.txt

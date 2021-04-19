@@ -1,0 +1,2 @@
+numpy>=1.18.3
+typing-inspect>=0.6.0
