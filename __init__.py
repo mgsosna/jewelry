@@ -1,1 +1,1 @@
-from .decorators import *
+from .jewelry import *
